@@ -15,3 +15,5 @@ With this code, we can get a graph describing the weather of a given day for a l
 4. Add the KEY to the environmental variables.
    1. In MAC-OS or Linux-OS it will be `export KEY="<YOUR KEY>"`
 5. run the command: `python3 weather.py`
+
+!["API"](screenshots/Weather-app.png "API")
